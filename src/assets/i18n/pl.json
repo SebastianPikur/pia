@@ -14,9 +14,9 @@
     "knowledge_base_link": "Baza wiedzy",
     "pia_example_link": "Przykład PIA",
     "languages": {
-      "official_translation": "TO BE TRANSLATED - Original version",
-      "cnil_translations": "TO BE TRANSLATED - CNIL provided translations",
-      "community_translations": "TO BE TRANSLATED - Community provided translations",
+      "official_translation": "Oryginalna wersja językowa",
+      "cnil_translations": "Tłumaczenia CNIL",
+      "community_translations": "Tłumaczenia Community",
       "fr": "Français",
       "en": "English",
       "cs": "Česky",
@@ -68,7 +68,7 @@
       "placeholder_validation": "Imię, nazwisko",
       "date": "Data",
       "status": "Status",
-      "creation_status": "Utworzenie",
+      "creation_status": "Tworzenie",
       "start": "Start",
       "placeholder_start": "Należy wypełnić wszystkie pola",
       "item": {
@@ -81,7 +81,7 @@
           "remove": "Usunięcie"
         },
         "edit_pia": "Edycja PIA",
-        "consult_pia": "TO BE TRANSLATED - Consult PIA"
+        "consult_pia": "Konsultowanie PIA"
       }
     },
     "lists": {
@@ -96,7 +96,7 @@
       "column_actions": "Działania",
       "item": {
         "tools": {
-          "consult": "TO BE TRANSLATED - Consult",
+          "consult": "Konsultowanie",
           "edit": "Edycja",
           "export": "Eksport",
           "duplicate": "Duplikacja",
@@ -119,8 +119,8 @@
     "header": {
       "preview": "Przegląd",
       "display_action_plan": "Wyświetlenie<br>planu działania",
-      "edition": "TO BE TRANSLATED - Edition",
-      "evaluation": "TO BE TRANSLATED - Evaluation"
+      "edition": "Edycja",
+      "evaluation": "Ocena"
     },
     "attachments": {
       "title": "Załączniki",
@@ -133,16 +133,16 @@
       "refuse_pia": "Odrzucona PIA",
       "status": {
         "evaluation": {
-          "title": "TO BE TRANSLATED - Waiting for review.",
-          "content": "TO BE TRANSLATED - This part has not yet been reviewed. If you wish to edit the content submitted for review you have to ",
-          "cancel": "TO BE TRANSLATED - cancel the review request.",
-          "cancel_button": "TO BE TRANSLATED - Cancel the review request"
+          "title": "Oczekiwanie na przegląd i ocenę.",
+          "content": "Nie dokonano jeszcze przeglądu i oceny tej sekcji. Jeżeli chcesz zmodyfikować treść skierowaną do oceny, musisz ",
+          "cancel": "anulować żadanie oceny.",
+          "cancel_button": "Anuluj żądanie oceny."
         },
         "validation": {
-          "title": "TO BE TRANSLATED - Waiting for validation.",
-          "content": "TO BE TRANSLATED - This part has been reviewed and is waiting for the overall PIA validation. If you wish to change the review, you have to ",
-          "cancel": "TO BE TRANSLATED - cancel the validation request.",
-          "cancel_button": "TO BE TRANSLATED - Cancel the validation request"
+          "title": "Oczekiwanie na zatwierdzenie.",
+          "content": "Ta sekcja została poddana przeglądowi i oczekuje na końcowe zatwierdzenie PIA. Jeżeli chcesz powrócić do przeglądu i oceny, musisz ",
+          "cancel": "anulować żądanie zatwierdzenia oceny.",
+          "cancel_button": "Anuluj żądanie zatwierdzenia oceny"
         }
       }
     },
@@ -1287,10 +1287,10 @@
           "short_help": "Należy przedstawić rady osoby odpowiedzialnej za bezpieczeństwo danych i prywatność (inspektora ochrony danych, jeżeli został powołany). Należy przedstawić poglądy osób, których dane dotyczą lub ich przedstawicieli."
         },
         "4": {
-          "title": "TO BE TRANSLATED - Validate the PIA"
+          "title": "Zatwierdzenie PIA"
         },
         "5": {
-          "title": "TO BE TRANSLATED - Rejected PIA"
+          "title": "Odrzucona PIA"
         }
       }
     }
